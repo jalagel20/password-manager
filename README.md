@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Remember, each time you make changes to your React app and want to see them reflected in your Chrome extension, you need to:
+
+Build your React app by running npm run build in your terminal.
+Go to the Chrome Extensions page (chrome://extensions).
+Find your extension and click on the "Reload" button.
